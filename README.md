@@ -1,6 +1,5 @@
 hello-world
 ===========
 
-First try
+Second try, better late then never.
 
-Starting to get into the whole GitHub thing.
